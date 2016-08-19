@@ -2,7 +2,7 @@
 Mesiti Electronics MCU controlled Mod Box / PPVD.
 
 Current:
-  Current MCU: Atmega328p @ 8Mhz 5v
+  MCU: Atmega328p @ 8Mhz 5v
   Single 18650 battery design (3.5-4.2V 2000mAh)
   INA219 for current and power sensing (0-32v, 0-32A Max power: 1.024 Kw)
   
